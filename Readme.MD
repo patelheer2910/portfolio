@@ -18,6 +18,6 @@ I'm Heer Patel, a Master's student in Artificial Intelligence at Boston Universi
 Feel free to connect with me:
 
 - Email: heer29@bu.edu  
-- LinkedIn: [linkedin.com/in/heer-patel](https://www.linkedin.com/in/heer-patel29)  
-- GitHub: [github.com/heerpatel](https://github.com/patelheer2910) *(replace with actual username)*
+- LinkedIn: [linkedin.com/in/heer-patel29](https://www.linkedin.com/in/heer-patel29)  
+- GitHub: [github.com/patelheer2910](https://github.com/patelheer2910) 
 
